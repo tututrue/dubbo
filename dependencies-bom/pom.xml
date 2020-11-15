@@ -25,7 +25,7 @@
 
     <groupId>com.alibaba</groupId>
     <artifactId>dubbo-dependencies-bom</artifactId>
-    <version>2.6.8</version>
+    <version>2.6.9</version>
     <packaging>pom</packaging>
 
     <name>dubbo-dependencies-bom</name>
@@ -94,7 +94,7 @@
         <mina_version>1.1.7</mina_version>
         <grizzly_version>2.1.4</grizzly_version>
         <httpclient_version>4.5.3</httpclient_version>
-        <fastjson_version>1.2.67</fastjson_version>
+        <fastjson_version>1.2.70</fastjson_version>
         <zookeeper_version>3.4.9</zookeeper_version>
         <zkclient_version>0.2</zkclient_version>
         <curator_version>2.12.0</curator_version>
@@ -127,7 +127,7 @@
 
         <jaxb_version>2.2.7</jaxb_version>
         <activation_version>1.2.0</activation_version>
-        <hessian_lite_version>3.2.5</hessian_lite_version>
+        <hessian_lite_version>3.2.8</hessian_lite_version>
         <alibaba_spring_context_support_version>1.0.2</alibaba_spring_context_support_version>
         <yaml_version>1.17</yaml_version>
     </properties>
